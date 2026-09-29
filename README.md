@@ -111,9 +111,9 @@ same functions the game itself uses. Boss battles get the same song their story 
 
 ## Credits
 
-- **yutsu** — author.
-- **claude** — debug.
-- **Ninsmash** — tester.
+- **Yutsu** — author.
+- **Claude** — debug.
+- **NinSmash** — tester.
 - [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) (GPL-3.0) — used to patch the game. Not bundled; downloaded from its official release page.
 - DELTARUNE © Toby Fox. This is a fan-made mod, not affiliated with Toby Fox or 8-4. No game files are included.
 
