@@ -1,0 +1,10 @@
+# Build output
+dist/
+
+# Never commit game files
+*.win
+*.win.backup
+*.backup
+
+# Local tools
+utmt/
